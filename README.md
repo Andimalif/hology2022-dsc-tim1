@@ -8,3 +8,9 @@ List Library Yang Digunakan
 
 Isi Folder Visualisasi Data
 ![Tampilan Folder Visualisasi Data](https://user-images.githubusercontent.com/117860888/200929250-c0a00f14-95ce-45ce-abef-7ae3d02127a3.png)
+
+Kategori game terbanyak
+![Pie Chart](https://user-images.githubusercontent.com/117860888/200930172-668c82e2-af60-4310-a0b1-14dbf6b4132c.png)
+
+Top 10 Game dengan bintang 5 tertingg
+![top 10 gasme](https://user-images.githubusercontent.com/117860888/200930177-58dbf59a-009d-43a5-acd1-2b484afc208a.png)
